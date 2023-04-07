@@ -8,6 +8,12 @@ RFC 4254 https://www.rfc-editor.org/rfc/rfc4254 Connection Protocol             
 RFC 5655 https://www.rfc-editor.org/rfc/rfc4255 Using DNS to Securely Publish Secure Shell (SSH) Key Fingerprints  
 RFC 5656 https://www.rfc-editor.org/rfc/rfc4256 Generic Message Exchange Authentication 通用消息交换认证  
 
+## SSH 两种级别的安全认证
+
+基于口令的安全认证 账号密码
+
+基于密匙的安全认证 公钥/私钥
+
 ## 基于 TCP 协议
 
 SSH 协议基于 TCP 协议 
