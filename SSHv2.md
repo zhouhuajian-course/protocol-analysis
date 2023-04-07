@@ -72,7 +72,9 @@ SSH-2.0-OpenSSH_7.4\r\n
 
 ![client-execute-ls-command.png](SSHv2/client-execute-ls-command.png)
 
+## 流程图
 
+![diagram.png](SSHv2/diagram.png)
 
 
 
